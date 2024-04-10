@@ -1,25 +1,13 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "MLSys CDT Program"
+date = "2024-04-10"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Machine Learning (ML) and AI dramatically impact our daily lives. But ML performance depends on the systems that implements it. Systems research and ML research are symbiotic. 
+This Centre for Doctoral Training pulls researchers together. They will work across the full machine learning-systems stack. 
+The Centre cares about the problems to be solved and the how the methods help people. It will research how to jointly develop the right methods and the right ways to deploy things to make ML work for real problems. 
+The School of Informatics and the University of Edinburgh has a long and prestigious history in both Artificial Intelligence and 
+Computer Systems. It has a concentration of research across AI applications such as natural language, vision, robotics, and medicine. The Centre will pioneer research for efficient, effective, deployable AI that benefits people. 

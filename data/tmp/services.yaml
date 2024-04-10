@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 id: "services"
 
 content:
@@ -13,15 +13,15 @@ content:
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "web development"
+      text: "lorem ipsum dolor sit amet, consectetur adipiscing elit. molestie in malesuada eget fames purus ligula luctus tellus. habitant condimentum sit gravida praesent. "
       button:
-        label: "Learn more"
+        label: "learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "web development"
+      text: "lorem ipsum dolor sit amet, consectetur adipiscing elit. molestie in malesuada eget fames purus ligula luctus tellus. habitant condimentum sit gravida praesent. "
       button:
-        label: "Learn more"
+        label: "learn more"
         url: "#"
