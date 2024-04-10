@@ -19,7 +19,7 @@ nd Computer Systems. It has a concentration of research across AI applications s
 
 # Leadership Team
 
-- Prof Amos Storkey (Principal Investigator)
-- Dr Ajitha Rajan
-- Dr Luo Mai
-- Prof Michael O’Boyle
+- [Prof Amos Storkey (Principal Investigator)](https://homepages.inf.ed.ac.uk/amos/)
+- [Dr Ajitha Rajan](https://homepages.inf.ed.ac.uk/arajan/)
+- [Dr Luo Mai](https://luomai.github.io/)
+- [Prof Michael O’Boyle](https://www.dcs.ed.ac.uk/home/mob/)
