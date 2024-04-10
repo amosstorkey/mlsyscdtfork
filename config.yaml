@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "MLSys CDT"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "MLSys CDT"
   images: 
     - "images/hero-image.png"
 
@@ -22,21 +22,22 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    dribbble: "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=1118"
+    # instagram: "#"
+    # facebook: "#"
+    # twitter: "#"
   
-  backgroundImage:
-    - "images/home-image.jpeg"
+  # backgroundImage:
+  #   - "images/home-image.jpeg"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "School of Informatics, 10 Crichton Street, Central Campus, Edinburgh, EH8 9AB"
+  #   - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "igs@inf.ed.ac.uk"
+    - "futurestudents@ed.ac.uk"
+    - "+44 (0)131 651 1208"
 
   copyright: "© 2024 MLSysCDT All Rights Reserved"
 
