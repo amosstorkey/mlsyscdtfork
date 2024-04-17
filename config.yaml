@@ -47,12 +47,12 @@ menus:
       url: "/#"
       weight: 1
 
-    - name: "About Us"
+    - name: "About"
       url: "/about"
       weight: 2
 
   buttons:
-    - name: "Contact Us"
+    - name: "Contact"
       url: "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=1118"
       weight: 5
       pre: "btn btn-primary text-light"

@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-# Project Summary
+# Program Summary
 
 Machine Learning (ML) and AI dramatically impact our daily lives. But ML performance depends on the systems that implements it. Systems research and ML research are symbiotic.
 This Centre for Doctoral Training pulls researchers together. They will work across the full machine learning-systems stack. 

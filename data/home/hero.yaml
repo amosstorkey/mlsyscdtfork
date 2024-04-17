@@ -6,10 +6,10 @@ content:
   # text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
 
   buttonPrimary:
-    label: "About ML-SysCDT"
+    label: "About us"
     url: "about"
 
   buttonSecondary:
-    label: "Apply now"
+    label: "How to apply"
     url: "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=1118"
 
