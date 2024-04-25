@@ -31,7 +31,7 @@ params:
   #   - "images/home-image.jpeg"
 
   location:
-    - "School of Informatics, 10 Crichton Street, Central Campus, Edinburgh, EH8 9AB"
+    - "School of Informatics, 10 Crichton Street, Edinburgh, EH8 9AB"
   #   - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
