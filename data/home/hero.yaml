@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Centre for Doctoral Training in **Machine Learning Systems**"
+  title: "EPSRC Centre for Doctoral Training in **Machine Learning Systems**"
   # text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
 
   buttonPrimary:
