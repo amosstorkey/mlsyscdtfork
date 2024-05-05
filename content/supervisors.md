@@ -5,7 +5,7 @@ date = "2024-04-13"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Amos Storkey"
 +++
-The School of Informatics and the University of Edinburgh has a long and prestigious history in both Artificial Intelligence and Computer Systems. It has a concentration of research across AI applications such as natural language, vision, robotics, and medicine. This CDT will be strongly collaborative, bring people together across the whole ML-Systems Stack. We expect each student to have a supervisor from the more ML side and a supervisors from the more Systems side (potentially with other supervisors).
+The School of Informatics and the University of Edinburgh has a long and prestigious history in both Artificial Intelligence and Computer Systems. It has a concentration of research across AI applications such as natural language, vision, robotics, and medicine. This CDT will be strongly collaborative, bringing people together across the whole ML-Systems Stack. We expect each student to have a supervisor from the more ML side and a supervisor from the more Systems side (potentially with other supervisors).
 
 ## Directors
 
