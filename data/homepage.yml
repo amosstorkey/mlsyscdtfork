@@ -19,12 +19,16 @@ about:
  
 projects:
   title: "Example Projects"
-  card1:
+  card0:
     title: "CDT Programme"
     text: "The CDT Programme provides a number of training opportunities, as well as the chance to engage on a number of projects. Each studetn will have a main research project, but these will generally be collaborative with others. There are also mini-projects, hackathons, and company engagement. BonsApps provides training in machine learning artifact creation for targeting business problems. Most students will leverage the opportunity for a paid internship in a company over the course of the PhD.  
     
 To provide students with the necessary background, the CDT puts on a number of courses for CDT students to take. The course selection is tailored for each PhD student's needs."
     img: "assets/pictures/Slide1.png"
+  card1:
+    title: "Novel Learning Approaches and Multi-Agent Learning for Large Neural Models"
+    text: "The current paradigm for learning networks of every sort are variants of gradient based learning. however such learning is highly inefficient - each gradient step erases significant information learnt in the previous step.  Furthermore, such learning processes cope poorly with distributed data and distributed learners. In this project we look beyond current slow gradient methods to new learning approaches that have better theoretical properties than gradient methods, and consider informational transaction between agents that enables much improved ability for each agent to optimize for task. This is particularly valuable for edge-device learning."
+    img: "assets/pictures/learning.png"
   card2:
     title: "ServerlessLLM"
     text: "Large Language Models (LLMs) demand substantial GPU resources for online platforms, prompting service providers to investigate cost-effective serverless inference architectures. Dynamic workloads are then efficiently consolidated into a shared GPU infrastructure. But this can hit latency due to frequent loading and unloading of models from storage. Our ServerlessLLM is a low-latency serverless inference system tailored for LLMs. It has an LLM checkpoint store and the first live migration algorithm for LLM inference."
