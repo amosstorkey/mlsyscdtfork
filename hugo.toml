@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://mlsystems.uk/'
+languageCode = 'en-uk'
+title = 'Edinburgh EPSRC CDT in Machine Learning Systems'
 theme = 'graysx-modified'
 
 ## Site Settings
