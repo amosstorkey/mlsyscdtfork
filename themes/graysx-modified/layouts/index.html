@@ -43,6 +43,7 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8">
                         <h2 class="text-white mb-4">{{ .title }}</h2>
+                        <p class="text-white-50">{{ .desc }}
                         <br>
                      </div>
                 </div>
@@ -75,8 +76,16 @@
                     </div>
                 </div>
             </div>
-            <br>
             <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-8">
+                       <p class="text-white-50">{{ .desc2 }}
+                        <br>
+                     </div>
+                </div>
+           </div>
+           <br>
+           <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8">
                         {{ if .button.enable }}
@@ -85,6 +94,7 @@
                     </div>
                 </div>
             </div>
+            <br>
        </section>
         {{ end }}
         <!-- Projects-->
