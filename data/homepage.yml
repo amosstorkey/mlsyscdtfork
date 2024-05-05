@@ -1,0 +1,68 @@
+# Main Title
+main:
+  header:
+    image: "assets/img/transcolorlogonotext.png"
+    description: "EPSRC CDT in Machine Learning Systems, University of Edinburgh" # Title Desc
+    button:
+      text: "Learn More" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "About"
+  desc: "Machine Learning (ML) and Artificial Intelligence dramatically impact our lives. But ML performance depends on the systems that implements it. Systems research and ML research are symbiotic. Those joining this Centre for Doctoral Training will collaborate and research on the cutting edge across the full ml-systems stack. We are about machine learning methods that work. We build the right methods and the right ways to deploy things to make ML work for real problems."
+  desc2: "The School of Informatics and the University of Edinburgh have a long and prestigious history in both Artificial Intelligence and Computer Systems. We have a concentration of research across AI applications such as natural language, vision, robotics, and medicine." 
+  button:
+    enable: true
+    text: "Apply"
+    url: "#apply"
+ 
+projects:
+  title: "Example Projects"
+  card1:
+    title: "CDT Programme"
+    text: "The CDT Programme provides a number of training opportunities, as well as the chance to engage on a number of projects. Each studetn will have a main research project, but these will generally be collaborative with others. There are also mini-projects, hackathons, and company engagement. BonsApps provides training in machine learning artifact creation for targeting business problems. Most students will leverage the opportunity for a paid internship in a company over the course of the PhD.  
+    
+To provide students with the necessary background, the CDT puts on a number of courses for CDT students to take. The course selection is tailored for each PhD student's needs."
+    img: "assets/pictures/Slide1.png"
+  card2:
+    title: "ServerlessLLM"
+    text: "Large Language Models (LLMs) demand substantial GPU resources for online platforms, prompting service providers to investigate cost-effective serverless inference architectures. Dynamic workloads are then efficiently consolidated into a shared GPU infrastructure. But this can hit latency due to frequent loading and unloading of models from storage. Our ServerlessLLM is a low-latency serverless inference system tailored for LLMs. It has an LLM checkpoint store and the first live migration algorithm for LLM inference."
+    img: "assets/pictures/luodiagram.png"
+  card3:
+    title: "Testing Safety of Perception AI on Hardware Accelerators"
+    text: "Autonomous vehicles (AVs) will happen in the near future. Yet, concerns about safety remain to be addressed. This project focuses on assessing safety of perception AI tasks within AV. Perception AI is responsible for detection of vehicles, pedestrians, lanes, traffic light, etc. Such tasks use deep learning, require enormous processing power and rely on hardware accelerators like GPUs and FPGAs. Real-time failure can occur due to incorrect implementation on the hardware accelerators, leading to timing uncertainty, unsafe memory accesses, incorrect data parallelism (see Figure). GPU related bugs are one of the five real faults categories in deep learning tasks like object detection."     
+    img: "assets/pictures/FigureDataLab.jpg"
+    
+people:
+  title: "People"
+  desc: "The CDT is led by Amos Storkey (Director), Michael O'Boyle, Ajitha Rajan, and Luo Mai. It is supported by the Informatics Graduate School."
+  desc2: "CDT students are supervised by staff across the University. All four Directors are supervisors on the CDT, along with many other staff, a non-exhaustive list is provided on the link below."
+  image1: "assets/pictures/amos-storkey.jpg"
+  director1: "Amos Storkey"
+  url1: "https://homepages.inf.ed.ac.uk/amos/"
+  image2: "assets/pictures/michael-oboyle.jpg"
+  director2: "Michael O'Boyle"
+  url2: "https://www.dcs.ed.ac.uk/home/mob/"
+  image3: "assets/pictures/ajitha-rajan.jpg"
+  director3: "Ajitha Rajan"
+  url3: "https://homepages.inf.ed.ac.uk/arajan/"
+  image4: "assets/pictures/luo-mai.jpg"
+  director4: "Luo Mai"
+  url4: "https://luomai.github.io/"
+  button:
+    enable: true
+    text: "Supervisors"
+    url: "/supervisors/"
+
+apply:
+  button:
+    text: "Apply Now"
+    url: "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=1118"
+    
+contact:
+  address: "Informatics Forum, 10 Crichton Street, Edinburgh EH10 4LD."
+  email: "amos@inf.ed.ac.uk"
+  mapurl: "https://informatics.ed.ac.uk/about/location"
+  maptext: "School of Informatics"
+     
