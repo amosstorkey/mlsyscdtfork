@@ -7963,6 +7963,21 @@ textarea.form-control-lg {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.text-white-25 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.25) !important;
+}
+
+.text-white-75 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+.text-white-65 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.65) !important;
+}
+
 .text-reset {
   --bs-text-opacity: 1;
   color: inherit !important;
