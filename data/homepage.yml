@@ -65,8 +65,9 @@ people:
 
 apply:
   button:
-    text: "Apply Now"
-    url: "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=1118"
+    text: "Applications Reopen Sep 2024"
+    url: "https://mlsystems.uk/"
+#    url: "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=1118"
     
 contact:
   address: "Informatics Forum, 10 Crichton Street, Edinburgh EH10 4LD."
