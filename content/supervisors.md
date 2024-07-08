@@ -16,6 +16,12 @@ The School of Informatics and the University of Edinburgh has a long and prestig
 
 The CDT Directors are all potential supervisors on the CDT.
 
+## Manager
+
+-  [Stephanie Robin](https://www.inf.ed.ac.uk/people/staff/Stephanie_Robin.html)
+
+The CDT Manager coordinates the CDT as a whole.
+
 ## Supervisors
 
 A more comprehensive list of people who are potential supervisors is listed here, under a variety of categories. This is by no means exhaustive. If you are not sure of the right supervisor for you, it is possible to apply without naming a supervisor. If you have discussed things with a potential supervisor, then please make that clear in your application. Some projects will be done with CDT Partners. They are also listed below.
