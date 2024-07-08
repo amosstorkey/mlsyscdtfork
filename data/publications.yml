@@ -1,0 +1,12 @@
+- title: Example Publication Format and How To Include {P}roper Nouns
+  authors: [Bob the Builder, Amos Storkey]
+  type: journal
+  published: Electronic Journal of Something
+  year: 2017
+  month: 12
+  url: http://dx.doi.org/10.1214/17-EJS1340SI
+  volume: 1
+  abstract: >
+    Many generative models can be expressed using a lot of words and excessive verbiage. This will cause a very long and verboxe abstract and a paper that takes many pages to say something simple...
+    
+

@@ -1,0 +1,14 @@
+- name: Amos Storkey
+  surname: Storkey
+  display-name: Prof. Amos Storkey
+  role: faculty
+  affiliation: Informatics
+  url: https://homepages.inf.ed.ac.uk/amos/
+  
+- name: Elliot Crowley
+  surname: Crowley
+  display-name: Dr Elliot J. Crowley
+  role: faculty
+  url: https://elliotjcrowley.github.io/
+  affiliation: Engineering
+  affiliation-url: https://www.eng.ed.ac.uk

@@ -1,0 +1,36 @@
+- name: Amos Storkey
+  surname: Storkey
+  display-name: Prof. Amos Storkey
+  role: Director
+  affiliation: Informatics
+  url: https://homepages.inf.ed.ac.uk/amos/
+  
+- name: Michael O'Boyle
+  surname: O' Boyle
+  display-name: Prof. Michael O'Boyle
+  role: Co-director
+  affiliation: Informatics
+  url: https://www.dcs.ed.ac.uk/home/mob/
+  
+- name: Ajitha Rajan
+  surname: Rajan 
+  display-name: Dr. Ajitha Rajan
+  role: Co-director
+  affiliation: Informatics
+  url: https://homepages.inf.ed.ac.uk/arajan/
+  
+- name: Luo Mai
+  surname: Mai 
+  display-name: Dr. Luo Mai
+  role: Co-director
+  affiliation: Informatics
+  url: https://luomai.github.io/
+  
+- name: Stephanie Robin
+  surname: Robin
+  display-name: Stephanie Robin
+  role: Manager
+  affiliation: Informatics
+  url: www.inf.ed.ac.uk/people/staff/StephanieRobin.html
+  
+  
