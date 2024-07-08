@@ -81,6 +81,7 @@ Trustworthiness, Ethics, Safety, Security and Privacy
 - Chris Heunen
 - David Aspinall
 - Tiejun Ma
+- Tariq Elahi
 
 Natural Language Processing and Speech Systems
 
