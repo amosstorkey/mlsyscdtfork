@@ -2,10 +2,10 @@
 ## How to edit
 ### Data:
 All the information in the website is curated in the "data" directory:
-management.yml -> List of directors and managers
-supervisors.yml -> List of potential supervisors
-students.yml -> List of students (and actual supervisors)
-pulbications.yml -> Full details of publications
+- management.yml -> List of directors and managers
+- supervisors.yml -> List of potential supervisors
+- students.yml -> List of students (and actual supervisors)
+- pulbications.yml -> Full details of publications
 
 These files can be edited to add further students etc. Ideally in the long run we would have methods to created these yml from a maintained database.
 
@@ -14,5 +14,5 @@ Markdown (.md) pages can be added to the "content" directory. These will create 
 
 ### Overall configuration:
 
-"hugo.toml" contains the main overall information for the website and menu structure.
-"data/homepage/yml" contains the main data controlling the text on the homepage.
+- "hugo.toml" contains the main overall information for the website and menu structure.
+- "data/homepage/yml" contains the main data controlling the text on the homepage.
