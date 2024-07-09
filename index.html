@@ -46,48 +46,47 @@
                         <br>
                      </div>
                 </div>
-            </div>
-            
-            
+            </div>          
             <div class="container px-4 px-lg-5">
                 <div class="row gx-0 gx-lg-0 justify-content-center">
+{% for member in site.data.management %}
+  {% if member.role="Director" %}
+    {% assign id = member.name | slugify %}
+    {% assign temp_1 = member.role | capitalize | slice: 0 %}
+    {% assign temp_2 = member.role | slice: 1, 100 %}
+    {% assign capitalized_role = temp_1 | append: temp_2 %}
                     <div class="col-md-3 mb-2 mb-md-0">
                         <div class="col-lg-10">
-                          <img class="img-fluid" src="{{ .image1 }}" alt="{{ .director1 }}"><br>
-                          <a  href="{{ .url1 }}">{{ .director1 }}</a>
+                          <img class="img-fluid" src="{{ id }}.jpg" alt="{{ member.name }}"><br>
+                          <a  href="{{ member.url }}">{{ member.name }}</a>
                        </div>
                     </div>
-                    <div class="col-md-3 mb-2 mb-md-0">
-                        <div class="col-lg-10">
-                            <img class="img-fluid" src="{{ .image2 }}" alt="{{ .director2 }}"><br>
-                            <a href="{{ .url2 }}">{{ .director2 }}</a>
-                       </div>
-                    </div>
-                    <div class="col-md-3 mb-2 mb-md-0">
-                        <div class="col-lg-10">
-                            <img class="img-fluid" src="{{ .image3 }}" alt="{{ .director3 }}"><br>
-                            <a href="{{ .url3 }}">{{ .director3 }}</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 mb-2 mb-md-0">
-                        <div class="col-lg-10">
-                            <img class="img-fluid" src="{{ .image4 }}" alt="{{ .director4 }}"><br>
-                            <a href="{{ .url4 }}">{{ .director4 }}</a>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
+  {% endif %}
+{% endfor %}
+
+ 
+                 </div>
             </div>
+
 
              <div class="container px-4 px-lg-5">
                 <div class="row gx-0 gx-lg-0 justify-content-center">
+{% for member in site.data.management %}
+  {% unless member.role="Director" %}
+    {% assign id = member.name | slugify %}
+    {% assign temp_1 = member.role | capitalize | slice: 0 %}
+    {% assign temp_2 = member.role | slice: 1, 100 %}
+    {% assign capitalized_role = temp_1 | append: temp_2 %}
                     <div class="col-md-3 mb-2 mb-md-0">
                         <div class="col-lg-10">
-                          <img class="img-fluid" src="{{ .imagemanager1 }}" alt="{{ .manager1 }}"><br>
-                          <a  href="{{ .urlmanager1 }}">{{ .manager1 }}</a>
+                          <img class="img-fluid" src="{{ id }}.jpg" alt="{{ member.name }}"><br>
+                          <a  href="{{ member.url }}">{{ member.name }}</a>
                        </div>
                     </div>
-  <!--                  <div class="col-md-3 mb-2 mb-md-0">
+  {% endif %}
+{% endfor %}
+
+   <!--                  <div class="col-md-3 mb-2 mb-md-0">
                         <div class="col-lg-10">
                             <img class="img-fluid" src="{{ .imagemanager2 }}" alt="{{ .manager2 }}"><br>
                             <a class="text-white-40" href="{{ .url2 }}">{{ .manager2 }}</a><
